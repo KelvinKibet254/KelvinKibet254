@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding, and software development
 - 🌱 I’m currently learning ...Html, Javascript and react
 - 💞️ I’m looking to collaborate on ...Python and Java
-- 📫 How to reach me ...kelvin.rono@riarauniversity.ac.ke/0110156999
+
 
 <!---
 KelvinKibet254/KelvinKibet254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
