@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KelvinKibet254
-- 👀 I’m interested in ...Coding, and software development
+- 👀 I’m interested in ...Coding, and Data science
 - 🌱 I’m currently learning ...Html, Javascript and react
 - 💞️ I’m looking to collaborate on ...Python and Java
 
